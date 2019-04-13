@@ -4,7 +4,7 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
   <remote  name="cib"
-           fetch="https://github.com/manueljpy/"
+           fetch="https://github.com/manueljpy/" revision="refs/tags/android-6.0.1_r81"
            remote="refs/heads/android-6.0.1_r81" />
   <remote  name="dfs"
            fetch="https://github.com/DroneFS/" revision="refs/tags/android-7.1.2_r33"

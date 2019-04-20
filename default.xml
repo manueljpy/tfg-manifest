@@ -651,7 +651,6 @@
   <project path="system/connectivity/wifilogd" name="platform/system/connectivity/wifilogd" groups="pdk" />
   <project path="system/core" name="platform/system/core" groups="pdk" />
   <project path="system/core/libchall" name="device-monitor" remote="dfs" />
-<project path="system/core/libpackagelistparser" name="platform/system/core/libpackagelistparser" revision="refs/tags/android-7.1.2_r33" groups="pdk"/>
 <project path="system/core/sdcard" name="tfg-sdcard" remote="cib" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />

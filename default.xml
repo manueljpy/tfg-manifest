@@ -6,7 +6,8 @@
   <remote  name="aosp7"
            fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/"
-	   revision="refs/tags/android-7.1.2_r33" />
+	   revision="refs/tags/android-7.1.2_r33"
+	   remote="refs/tags/android-7.1.2_r33" />
   <remote  name="cib"
            fetch="https://github.com/manueljpy/" revision="refs/tags/android-9.0.0_r35"
            remote="refs/tags/android-9.0.0_r35" />
